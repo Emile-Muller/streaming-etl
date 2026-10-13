@@ -6,7 +6,7 @@
 [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)](https://airflow.apache.org)
 [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-353535?style=flat&logo=elasticsearch&logoColor=FED10A)](https://www.elastic.co/elasticsearch)
 [![Kibana](https://img.shields.io/badge/Kibana-00BFB3?style=flat&logo=kibana&logoColor=white)](https://www.elastic.co/kibana)
-[![Power BI](https://img.shields.io/badge/Power%20BI-E3A810?style=flat&logoColor=white)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 [![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=FFD43B)](https://www.python.org)
 
 ![Architecture diagram](docs/data_pipeline.png)
